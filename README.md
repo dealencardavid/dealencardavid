@@ -1,4 +1,11 @@
-### Hi there 👋
+### Hi, I'm David!
+
+I have a kinda weird background between arts and finance.
+
+My journey in web development began when I first tried to build some tools to help me in my finance-related job. 
+When I least expected it, I became fascinated by coding! 
+I'm currently on the lookout for a role in frontend web development, ideally working with React. 
+If you're hiring, let's have a chat!
 
 <!--
 **dealencardavid/dealencardavid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
