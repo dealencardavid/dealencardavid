@@ -1,4 +1,4 @@
-### Hi, I'm David!
+### Hi, I'm David! 👋
 
 I have a kinda weird background between arts and finance.
 
