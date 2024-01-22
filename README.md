@@ -4,6 +4,7 @@ I have a kinda weird background between arts and finance.
 
 My journey in web development began when I first tried to build some tools to help me in my finance-related job. 
 When I least expected it, I became fascinated by coding! 
+If you want to take a look into one of my projects, dive into MovieMarathon.
 I'm currently on the lookout for a role in frontend web development, ideally working with React. 
 If you're hiring, let's have a chat!
 
