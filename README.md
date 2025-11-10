@@ -1,12 +1,6 @@
 ### Hi, I'm David! 👋
 
-I have a kinda weird background between arts and finance.
-
-My journey in web development began when I first tried to build some tools to help me in my finance-related job. 
-When I least expected it, I became fascinated by coding! 
-If you want to take a look into one of my projects, dive into MovieMarathon.
-I'm currently on the lookout for a role in frontend web development, ideally working with React. 
-If you're hiring, let's have a chat!
+I have two great passions: art and technology. I discovered web development during the pandemic and immediately dove into learning and creating projects with React. Since then, I’ve been coding every day — always curious about new ways to achieve better results. Before that, I earned a degree in Theatre and completed a postgraduate programme in Performing Arts. Today, I’m a frontend developer who brings creativity, visual sensitivity and strong teamwork skills shaped by years of experience as an actor… and, of course, I still step on stage whenever I can.
 
 <!--
 **dealencardavid/dealencardavid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
